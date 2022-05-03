@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Pradeep-SG/shortly)
-- Live Site URL: [Add live site URL here](https://pradeep-sg.github.io/shortly/)
+- Solution URL: [https://github.com/Pradeep-SG/shortly](https://github.com/Pradeep-SG/shortly)
+- Live Site URL: [https://pradeep-sg.github.io/shortly/](https://pradeep-sg.github.io/shortly/)
 
 ## My process
 
